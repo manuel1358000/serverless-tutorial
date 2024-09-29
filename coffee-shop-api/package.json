@@ -1,11 +1,6 @@
 {
-  "name": "coffee-shop-api",
-  "version": "1.0.0",
-  "main": "createCoffee.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "aws-sdk": "^2.1677.0",
+    "serverless": "^4.1.22"
+  }
 }
